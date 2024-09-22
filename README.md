@@ -26,3 +26,11 @@ Execute `ng e2e` para executar os testes de ponta a ponta através de uma plataf
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou acesse a página [Visão Geral e Referência de Comandos do Angular CLI](https://angular.dev/tools/cli). 
 
+## Na Home User
+
+Nesta tela você pesquisa usuários no GitHub
+
+## Em Usuários
+
+Você pode cadastrar usuários e é criado um card onde vai ter um botão selecionar que ao ser clicado em um segundo card é mostrado o nome e a idade
+
